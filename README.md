@@ -3,11 +3,11 @@
 **I dropped out of my computer science degree because I genuinely hate coding.**   
 Still doing it because im annoyed by adverts and the thought that personal interactions are tracked + analyzed is displeasing.
 
-### 🌌 Currently 
+### 🪐 Currently 
 I'm working towards not nuking my servers shitty configs again, all while trying to study. 
 Recently I decided to [blog](https://blog.decided.to) and [note](https://note.decided.to) things in public.
 
-### 🪐 Previously 
+### 🌌 Previously 
 I did commit some shit code and dealt excessively with WordPress.
 
 <details> <summary>Details</summary>
