@@ -30,7 +30,7 @@ Besides "computer stuff" I do graphic design work, photography & photojournalism
 I also enjoy a good conversation :)
 
 ### 💬 Feel free to hit me up here
-_i kindly ask you to use they/them pronouns. [its not that hard](https://i.redd.it/e0uedgjh1w071.jpg)_
+_i kindly ask you to use they/them pronouns. [its not that hard](https://raw.githubusercontent.com/lenowac/lenowac/main/pronouns.jpg)_
 
 <a href="https://matrix.to/#/@leo:envs.net">
 <img src="https://img.shields.io/static/v1?label=chat&message=leo@envs.org&logo=element&logoColor=0dbd8b&color=0dbd8b&style=for-the-badge" alt="hmu on matrix">
